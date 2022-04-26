@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wilker, a developing seeking to simplify the things we need to make computer programs. Mostly doing in Clojure.
+I'm Wilker, a developing seeking to simplify the things we need to make computer programs. Mostly doing it in Clojure.
 
 <!--
 **wilkerlucio/wilkerlucio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
