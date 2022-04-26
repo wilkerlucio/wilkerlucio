@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Wilker Lucio GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkerlucio&show_icons=true&theme=gruvbox)
+I'm Wilker, a developing seeking to simplify the things we need to make computer programs. Mostly doing in Clojure.
 
 <!--
 **wilkerlucio/wilkerlucio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
